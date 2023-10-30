@@ -1,5 +1,2 @@
 #!/bin/bash
-
-PY_FILE_NAME = $PYFILE
-
-python3 $PY_FILE_NAME
+python3 $PYFILE
