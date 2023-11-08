@@ -15,4 +15,4 @@ def best_score(a_dictionary):
             best_key = key
             best_value = value
 
-    return leader
+    return best_key
